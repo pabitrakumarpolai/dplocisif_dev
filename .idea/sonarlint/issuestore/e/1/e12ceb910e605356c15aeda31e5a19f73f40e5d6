@@ -1,0 +1,14 @@
+
+‹
+java:S11920"HDefine a constant instead of duplicating this literal "loginId" 4 times.(°÷Ï¿8Óÿ‚Õ‚2J$e663c23d-496e-450f-afde-9e618b1bfeb1
+‹
+java:S1192="HDefine a constant instead of duplicating this literal "success" 4 times.(á–šÔ8Óÿ‚Õ‚2J$8d53f009-2a7c-4742-9365-d78de62f481c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°—ÿÿÿÿÿ8Öÿ‚Õ‚2J$bb2667ae-656f-439f-bfc3-1bf6d7d8a082
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ëÿ‚Õ‚2J$f5e73d0d-9fdf-41ff-89dc-743f7e12c995
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ëÿ‚Õ‚2J$5d5abf3c-6682-4a70-94ac-993adf64d6dd
+
+java:S1068"9Remove this unused "descriptionBasedOnMap" private field.(Ú¢¤øÿÿÿÿ8€ƒÕ‚2J$a0e4ddcb-8ab3-40aa-9ae6-d75e850cb3db
+y
+java:S1068"6Remove this unused "depoCodeBasedOnMap" private field.(äêÏë8€ƒÕ‚2J$c9e6af4a-3e12-4f4f-a45e-379e622f118b

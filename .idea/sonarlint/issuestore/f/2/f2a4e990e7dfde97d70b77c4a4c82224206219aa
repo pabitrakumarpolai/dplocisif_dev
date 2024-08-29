@@ -1,0 +1,22 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı«§ØÿÿÿÿÿJ$f16fbf67-762f-41ae-89be-814c738adda9
+…
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ8ìˆß€÷1J$8463e091-1b58-4fbc-986a-99605262c1c7
+…
+java:S68134"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$cb6ac971-aa13-47dc-8bc4-8772831a180c
+…
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$73b6c0c0-22e8-43d5-9591-78458d4becd8
+…
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$1c6e26b3-06d4-4690-9a24-cb5e8eaa8322
+…
+java:S6813:"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$54d28ac5-a4d6-4e14-a988-ce192f3e13b8
+…
+java:S6813<"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$2a2bb9d4-c3c1-4f56-8544-c480fcd47a47
+…
+java:S6813>"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$ac9d424f-1d30-44bb-846c-09195bce0b93
+…
+java:S6813@"BRemove this field injection and use constructor injection instead.(êæÄŞ8òˆß€÷1J$54c96ba7-a00b-4f0d-9f8b-a1e1bb18f811
+	java:S125"<This block of commented-out lines of code should be removed.(üÎ×Ì8µƒÉˆ€2J$2e49901c-6bcd-4243-993e-5cb041e7caa3
+†
+java:S1117¨"BRename "menuModuleList" which hides the field declared at line 37.(†ùûğ8’Äâõ1J$72d56a9b-454e-4bb1-aadc-30845f1ff78b
+^	java:S125·"<This block of commented-out lines of code should be removed.(…¬êùøÿÿÿÿ8¬¿Éˆ€2

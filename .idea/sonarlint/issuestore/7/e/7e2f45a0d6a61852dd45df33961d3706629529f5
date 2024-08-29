@@ -1,0 +1,27 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜µãíÿÿÿÿÿJ$07d84932-23f4-4a35-a81e-36f3d0157440
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©’ğJ$ad0bacf3-519e-4132-a726-a181997608c7
+	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷õ»J$57891fbf-440f-4b7b-86fa-ee4e87720622
+œ
+java:S1450"YRemove the "encodedKey" field and declare it as a local variable in the relevant methods.(Ìáµİ8ˆÉ‰°€2J$f515e0eb-a516-4093-a654-89fe28831d07
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ğîŞØúÿÿÿÿ8ÏŒñ°€2J$5d9e3de6-9c91-44c2-b78a-c489238391e4
+s
+java:S1874"2Remove this use of "setSubject"; it is deprecated.(¥¥ıÿÿÿÿJ$c7bfea66-3bac-4c68-9e81-05cb989830d1
+t
+java:S1874 "3Remove this use of "setIssuedAt"; it is deprecated.(ÕÕÚşûÿÿÿÿJ$13aae22d-5c44-4a43-9fa6-8594a8c65605
+p
+java:S1874!"5Remove this use of "setExpiration"; it is deprecated.(’‰J$d6c02d6e-13c7-4874-ae4c-492a2fd838f8
+l
+java:S1874""0Remove this use of "signWith"; it is deprecated.(É—ı±J$e166e0a9-a389-4ea7-b1b8-1034409ab792
+v
+java:S1874"":Remove this use of "SignatureAlgorithm"; it is deprecated.(É—ı±J$24777164-dcc7-47c1-a50e-bc5271c36563
+v
+java:S1874"":Remove this use of "SignatureAlgorithm"; it is deprecated.(É—ı±J$a6a69085-a496-4138-b0e0-2257d69870b5
+U
+java:S1128"3Remove this unused import 'io.jsonwebtoken.Claims'.(“œ¾ úÿÿÿÿ8ğÔú¦‚2
+M
+java:S1128"0Remove this unused import 'io.jsonwebtoken.Jws'.(şœüê8ñÔú¦‚2
+e
+java:S1128"HRemove this unused import 'io.jsonwebtoken.security.SignatureException'.(Ã•à8ñÔú¦‚2
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8ñÔú¦‚2

@@ -1,0 +1,26 @@
+
+	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¹Ûß‡ùÿÿÿÿ8»ı™æı1J$840a25b2-87ce-4060-b721-d88d5356663d
+
+java:S1192["GDefine a constant instead of duplicating this literal "roleId" 4 times.(Àìƒ÷ùÿÿÿÿ8¼ı™æı1J$493fd2af-58f4-42bd-9d6a-9fdc2c2e3ea0
+‹
+java:S1192,"HDefine a constant instead of duplicating this literal "success" 4 times.(ğà¸à8½ı™æı1J$ec0624f3-3f63-4d6d-86bb-d8f9fe99556e
+
+java:S1192@"FDefine a constant instead of duplicating this literal "error" 5 times.(°•ŠÅÿÿÿÿÿ8½ı™æı1J$ddb20da2-0af2-4f8e-87cf-180911706681
+«
+java:S1319*"cThe type of "result" should be an interface such as "Map" rather than the implementation "HashMap".(Àèµ‡üÿÿÿÿ8¾ı™æı1J$46fbb9be-aba3-4c9d-9823-c77489c847df
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°—ÿÿÿÿÿ8Àı™æı1J$52ca314c-023a-4bd2-b802-1677cee41122
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñı™æı1J$70dc754b-1269-4f2b-9a00-a60bab4f1c08
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñı™æı1J$d1ac972f-0325-4300-ab07-bc844eda497b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñı™æı1J$5c392195-36de-4159-9a5f-6f8b39a46eea
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñı™æı1J$81bc79ae-83cd-4fac-a781-52f00e93be51
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8Òı™æı1J$f481ca66-8c0a-4ee6-b9c3-a0a089ca743d
+~	java:S125B"<This block of commented-out lines of code should be removed.(¶é€›8ßı™æı1J$e9a3df3b-e43a-468f-9be6-96573261d9d5
+ƒ	java:S125\"<This block of commented-out lines of code should be removed.(®ñïéÿÿÿÿÿ8ãı™æı1J$251343e0-de7f-431f-9382-2b6c0ca442b4
+ƒ	java:S125y"<This block of commented-out lines of code should be removed.(ªê­Ëüÿÿÿÿ8çı™æı1J$e8b79dc7-113e-4a66-b338-37c82440fc28
+o
+java:S1068"'Remove this unused "log" private field.(šÆøıúÿÿÿÿ8ëı™æı1J$6a506f39-1bbd-4876-a9f4-271a5a2483b8

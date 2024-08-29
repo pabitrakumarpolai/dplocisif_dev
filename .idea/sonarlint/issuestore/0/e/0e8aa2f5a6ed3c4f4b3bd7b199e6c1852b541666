@@ -1,0 +1,6 @@
+
+±
+java:S1319"iThe type of "result" should be an interface such as "SortedMap" rather than the implementation "TreeMap".(Óú”¼ıÿÿÿÿ8€ú¹Š÷1J$06f056ef-b56e-4b8e-b8af-5ca639161e5b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°—ÿÿÿÿÿ8‚ú¹Š÷1J$8de5947d-105b-4376-92a1-dff6e5db6f40
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹ú¹Š÷1J$b5734003-6480-4280-a9e5-96a7033657df

@@ -1,0 +1,22 @@
+
+	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8€òÚı÷1J$f82117ae-2a60-4080-abea-87e283400c2b
+	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8€òÚı÷1J$f1043cee-00d6-4ed4-acdc-288787fac298
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8€òÚı÷1J$4be1702c-f90f-4c01-99a9-6cbbcf791ead
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8€òÚı÷1J$cb4c0b60-d4f6-43b9-9dea-abb464a4fbf6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¬¹µûÿÿÿÿ8ƒòÚı÷1J$e4930326-26cf-4cb9-a36c-9f99d9c02422
+Š
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(…¤© ÿÿÿÿÿ8Å‡ßı÷1J$ce254a38-f54d-46f6-b64e-ee767deb6052
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(§ÿÒ¬8•òÚı÷1J$0b9b6540-b797-4890-babe-6d1048d24b34
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8–òÚı÷1J$d6120664-b593-427c-a3e5-7aab120a1464
+~
+java:S1854*"6Remove this useless assignment to local variable "rs".(ŒÇ›ğùÿÿÿÿ8œòÚı÷1J$4c9514bf-a22a-4bbb-a8e4-8f64610a80b3
+
+java:S1854."9Remove this useless assignment to local variable "cstmt".(õ¿·Éùÿÿÿÿ8œòÚı÷1J$c5f09cfb-0103-4a77-9385-83e35c31b1f4
+
+java:S1854="9Remove this useless assignment to local variable "cstmt".(õ¿·Éùÿÿÿÿ8òÚı÷1J$6440c0eb-b67a-4a57-ba1c-ad8bb0563d6e
+~
+java:S1854K"6Remove this useless assignment to local variable "rs".(ŒÇ›ğùÿÿÿÿ8ŸòÚı÷1J$25f4051a-5bdf-4708-be15-66170089131a
+
+java:S1854O"9Remove this useless assignment to local variable "cstmt".(õ¿·Éùÿÿÿÿ8ŸòÚı÷1J$e13bb3b8-ab79-41bf-a1cf-9a3962bd39be

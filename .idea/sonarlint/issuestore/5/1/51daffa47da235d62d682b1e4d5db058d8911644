@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©’ğ8ôŞŞªù1J$b26182d0-0440-4929-8281-e24b4f160ff1
+—	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷õ»8üŞŞªù1J$f88fd1c4-cb9c-4ec8-a671-6960dbbc3d96
+†
+java:S1128"DRemove this unused import 'jakarta.servlet.http.HttpServletRequest'.(õ38÷Ë°«ù1J$3604facf-397f-46d7-95f8-40c80cb2a99d
+™
+java:S1128
+"QRemove this unused import 'org.springframework.web.cors.CorsConfigurationSource'.(ŒºÏøşÿÿÿÿ8÷Ë°«ù1J$c4bf18de-6bde-4fd0-a534-9a6adfc1ea21
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8÷Ë°«ù1J$a90b01dc-2e2c-4216-9e5c-151dc5e4c973

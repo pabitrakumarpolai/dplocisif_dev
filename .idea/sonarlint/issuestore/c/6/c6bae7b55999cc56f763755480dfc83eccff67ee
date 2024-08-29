@@ -1,0 +1,37 @@
+
+˜	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úºÂËıÿÿÿÿ8³³üª2J$719c89ef-17d8-4c9c-ba5c-8e2b16a26283
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©’ğ8¶³üª2J$a0f83917-798d-410e-a7f7-34762d822cec
+—	java:S116#"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÉ± 8Í³üª2J$0a03b56a-2a07-43de-88df-685ce2d8856b
+œ
+java:S1450*"YRemove the "encodedKey" field and declare it as a local variable in the relevant methods.(ÑÎ¡î8Ğ³üª2J$e3ce14bc-8465-4f95-b77b-0a6ffcb79a68
+}
+java:S1874D"5Remove this use of "setSigningKey"; it is deprecated.(ûÍ€„ùÿÿÿÿ8ß³üª2J$ed125511-5cf7-4315-a3f3-f6594b53dd13
+w
+java:S1874D"/Remove this use of "getBody"; it is deprecated.(ûÍ€„ùÿÿÿÿ8ß³üª2J$68405eb2-657c-4767-b206-7e214b301107
+}
+java:S1874\"5Remove this use of "setSigningKey"; it is deprecated.(Ğë¨“ûÿÿÿÿ8ã³üª2J$f5225aed-cfb1-4468-b44f-3c83360daf8c
+‚
+java:S4719\":Replace Charset.forName() call with StandardCharsets.UTF_8(Ğë¨“ûÿÿÿÿ8ä³üª2J$4f32e4bb-7fd4-4e99-91e3-41abe7fb4be9
+~
+java:S1874]"6Remove this use of "parseClaimsJws"; it is deprecated.(¼½ÉÚÿÿÿÿÿ8å³üª2J$bdf99a93-4413-4c12-9ffd-210328bb6968
+w
+java:S1874]"/Remove this use of "getBody"; it is deprecated.(¼½ÉÚÿÿÿÿÿ8å³üª2J$c10be680-7a65-443a-9e26-359de6a4a83b
+s
+java:S1128"0Remove this unused import 'io.jsonwebtoken.Jws'.(şœüê8ê³üª2J$4771ff6b-7053-4020-9a45-da0033a63c11
+{
+java:S1128"8Remove this unused import 'io.jsonwebtoken.io.Decoders'.(Ğ®ˆş8ê³üª2J$21f51195-6248-4ec0-8e8a-96a713a3f73f
+‚
+java:S1128":Remove this unused import 'io.jsonwebtoken.security.Keys'.(û±ÃŸúÿÿÿÿ8ê³üª2J$ec156760-aca2-42a6-be84-e087c0aca73f
+ƒ
+java:S1128
+";Remove this unused import 'jakarta.servlet.ServletContext'.(›ÕÜşıÿÿÿÿ8ê³üª2J$ba18f5ca-f489-4ab2-95d8-10e4f4d7097f
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ê³üª2J$cf636e6f-5b4e-4f42-a782-a7cb9d441078
+›
+java:S1128"XRemove this unused import 'org.springframework.boot.web.servlet.FilterRegistrationBean'.(×±Ñ¡8ê³üª2J$230bae7f-53db-425b-8bf9-b1a9c88950e1
+
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8ê³üª2J$ada0c843-6777-4f04-8855-d7bd7f000688
+v
+java:S1128".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿ8ê³üª2J$050a7275-cdbc-4a19-bc1e-a1a7d35bdf59
+
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ8ê³üª2J$08bb7cd7-e1dc-45c6-9d8e-6928a93e0980

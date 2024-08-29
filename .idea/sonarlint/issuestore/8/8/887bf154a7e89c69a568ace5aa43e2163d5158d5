@@ -1,0 +1,54 @@
+
+c	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Î…øÖ8üÜ½®2
+d
+java:S1192W"GDefine a constant instead of duplicating this literal "error" 10 times.(„öæÄ8ÿÜ½®2
+l
+java:S1192g"JDefine a constant instead of duplicating this literal "loginName" 3 times.(Õßà®ÿÿÿÿÿ8ÿÜ½®2
+f
+java:S1192S"IDefine a constant instead of duplicating this literal "userName" 3 times.(ÕĞ§¦8ÿÜ½®2
+c
+java:S1192b"FDefine a constant instead of duplicating this literal "token" 4 times.(ÃìÓ´8ÿÜ½®2
+j
+java:S1192c"HDefine a constant instead of duplicating this literal "success" 4 times.(¬•™ışÿÿÿÿ8€İ½®2
+Š
+java:S1319R"hThe type of "userDetails" should be an interface such as "Map" rather than the implementation "HashMap".(ƒ¨‡¨üÿÿÿÿ8İ½®2
+Œ
+java:S1319€"iThe type of "result" should be an interface such as "SortedMap" rather than the implementation "TreeMap".(˜œôìşÿÿÿÿ8İ½®2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°—ÿÿÿÿÿ8…İ½®2
+q	java:S116J"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷õ»8Âİ½®2
+_
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813:"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813<"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813>"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813@"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813B"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+_
+java:S6813D"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ãİ½®2
+R
+java:S1874©"5Remove this use of "setSigningKey"; it is deprecated.(‘ëö"8¿Ş½®2
+W
+java:S4719©":Replace Charset.forName() call with StandardCharsets.UTF_8(‘ëö"8ÅŞ½®2
+S
+java:S1874ª"6Remove this use of "parseClaimsJws"; it is deprecated.(ƒİ
+8ÇŞ½®2
+L
+java:S1874ª"/Remove this use of "getBody"; it is deprecated.(ƒİ
+8ÉŞ½®2
+u
+java:S1128"SRemove this unused import 'com.dplocisif.DPLOCISIF.model.EmployeePayDetailsModule'.(¸‘õğÿÿÿÿÿ8ÌŞ½®2
+y
+java:S1128"\Remove this unused import 'com.dplocisif.DPLOCISIF.repository.EmployeePayDetailsRepository'.(ô—½‰8ÎŞ½®2
+u
+java:S1128"XRemove this unused import 'com.dplocisif.DPLOCISIF.repository.IndentApproverRepository'.(×È®î8ĞŞ½®2
+`
+java:S1128">Remove this unused import 'jakarta.persistence.EntityManager'.(·ïŸéúÿÿÿÿ8ĞŞ½®2
+[
+java:S1128">Remove this unused import 'jakarta.persistence.ParameterMode'.(¥ñÿ³8ÒŞ½®2
+b
+java:S1128"ERemove this unused import 'jakarta.persistence.StoredProcedureQuery'.(åÂ¾8ÓŞ½®2

@@ -1,0 +1,10 @@
+
+j
+java:S3740"/Provide the parametrized type for this generic.(îŠ J$63360e36-8e87-4d61-999b-c1dc32901080
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž‘ÐÁJ$def9edbb-000c-4160-ba73-215d0e08d3d0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$ae9389a5-183d-4174-98c1-64d6138e89ad
+„
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÖóyJ$ceaee557-713b-4032-bf96-17745933c461
+f
+java:S1068"*Remove this unused "logger" private field.(¯ˆÞ™J$54806152-7eb7-406f-82b5-47b8fc0b2356

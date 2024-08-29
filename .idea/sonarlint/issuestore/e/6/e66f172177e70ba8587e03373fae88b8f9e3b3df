@@ -1,0 +1,30 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(µÑº‰8ƒ›Ö«2J$d2318f67-2267-4760-9284-342db2ce5134
+w
+java:S3740$"/Provide the parametrized type for this generic.(š˜ŒÀüÿÿÿÿ8„›Ö«2J$ddbd4033-f43e-4e4f-b75d-ba9e1cf1b52d
+r
+java:S3740-"/Provide the parametrized type for this generic.(áşÙœ8„›Ö«2J$68bec09c-45ec-42c3-a9d4-a4448b8d62b7
+w
+java:S37403"/Provide the parametrized type for this generic.(—ú×Ãşÿÿÿÿ8„›Ö«2J$e7ce98f2-bc01-4fd0-b619-5d0849664c18
+w
+java:S3740:"/Provide the parametrized type for this generic.(ëØí¼úÿÿÿÿ8„›Ö«2J$df1fbcb1-4119-4c78-b56c-67aaa26ea6c8
+r
+java:S3740E"/Provide the parametrized type for this generic.(ÓÈãâ8„›Ö«2J$3ff1886f-1ede-4b8b-aa17-1a3e8abfad0e
+
+java:S1192"FDefine a constant instead of duplicating this literal "error" 6 times.(ı³†àøÿÿÿÿ8…›Ö«2J$29ab5ab4-9ebd-4915-9364-d1a7769911c4
+«
+java:S1319"hThe type of "userDetails" should be an interface such as "Map" rather than the implementation "HashMap".(µÑº‰8†›Ö«2J$835f220d-e72a-4d65-bc60-87ec635fa97b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ĞÁ8ˆ›Ö«2J$e5b7eb78-8b5e-4908-a59a-bc178a1121b7
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜›Ö«2J$0cd5d3b1-81cf-4e3a-8e23-4dcc6107c3bb
+
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¨´’è8¢›Ö«2J$48b1d932-b726-4e8a-986b-dd683d29a033
+’
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ò´êåÿÿÿÿÿ8§›Ö«2J$5659990d-96ea-432a-a127-b8c6d1aa2b1e
+’
+java:S44882"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(È¼ú¥ıÿÿÿÿ8©›Ö«2J$1719f584-0373-45ea-9bc6-82f5874aed4e
+’
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿°Úûÿÿÿÿÿ8ª›Ö«2J$74fcf883-76c1-45db-badd-4bdf308fa8fb
+
+java:S4488D"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(øÅô²8®›Ö«2J$32bdb0b7-5291-429f-ab16-75aa7af92902

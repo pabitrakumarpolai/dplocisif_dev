@@ -1,0 +1,22 @@
+
+k
+java:S3740"/Provide the parametrized type for this generic.(‹ƒÁ†J$699b379f-6c87-4365-bfa7-c17dc9f1d3eb
+p
+java:S3740!"/Provide the parametrized type for this generic.(ÒßÛÙùÿÿÿÿJ$9c091878-daac-490f-8699-a8324588f730
+j
+java:S3740-"/Provide the parametrized type for this generic.(À¯€RJ$e58560c5-cb80-4239-bc9a-3a64362386d2
+r
+java:S37409"/Provide the parametrized type for this generic.(ÀëÛš8Ç¼§ø1J$75ab4879-08d1-42cc-a101-150685aea7eb
+‡
+java:S1192"FDefine a constant instead of duplicating this literal "error" 6 times.(¨ŠêıùÿÿÿÿJ$43ea8a26-4e34-4a02-9b7f-a6337f3ce793
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ĞÁJ$4dacb4d5-148f-4fa5-8283-e68d15b688f0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$31e331d3-e27b-4d67-9f55-77f08d7c717c
+†
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ù»à§J$364e1174-b86b-4c03-9809-1bd3f44514f6
+„
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ù¹ïJ$5d86023f-2627-4315-bb43-4dbd340d6b74
+†
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(™´º»J$ca869433-da62-498c-9f72-ceb4be391d17
+
+java:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ØÃ¼ùÿÿÿÿ8ÄÅ¹§ø1J$76737187-6b29-4e2c-9315-c47f2a8075b0

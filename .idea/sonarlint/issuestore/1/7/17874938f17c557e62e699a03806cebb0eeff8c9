@@ -1,0 +1,8 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¬¹µûÿÿÿÿJ$44b46867-edd7-449f-8693-c5913e1196b3
+„
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(§ÿÒ¬J$b580f46c-1bb3-4485-a4a5-1f14691c73d2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$9176c17f-395b-47a8-a833-7a35b951d6e0
+r
+java:S3416"1Update this logger to use "ViewConnection.class".(ŒÚ’ËýÿÿÿÿJ$9b7207b3-fdde-4a98-930c-2dff1d686696
